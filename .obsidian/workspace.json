@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "da87e50e54757288",
+        "id": "7aea65791f5577d0",
         "type": "tabs",
         "children": [
           {
-            "id": "4f99cbd00b09b9fc",
+            "id": "574110022317f55f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Day - 01.md",
+                "file": "Day - 03.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Day - 01"
-            }
-          },
-          {
-            "id": "e712a119cf8ada8c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Day - 02.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Day - 02"
+              "title": "Day - 03"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -46,11 +31,11 @@
     "type": "split",
     "children": [
       {
-        "id": "ec5c8dbcda445826",
+        "id": "183785175e709bd5",
         "type": "tabs",
         "children": [
           {
-            "id": "06e2ff6730cd3cc2",
+            "id": "8633d5ad9823c8f2",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -62,7 +47,7 @@
             }
           },
           {
-            "id": "2d82ac830545b89c",
+            "id": "103c3b231c42d60b",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -79,7 +64,7 @@
             }
           },
           {
-            "id": "3a0a8e23d0c98cb3",
+            "id": "a901275cb14df2ed",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -92,7 +77,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6a62ed448eaa2a09",
@@ -169,18 +155,24 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "e712a119cf8ada8c",
+  "active": "574110022317f55f",
   "lastOpenFiles": [
-    "Day - 01.md",
+    "python-code/DayThree - Pizza price.py~",
+    "python-code/DayThree - Pizza price.py",
+    "python-code/DayThree - RollerCoaster.py~",
+    "python-code/DayThree - RollerCoaster.py",
     "Day - 02.md",
+    "Day - 03.md",
+    "Untitled.canvas",
+    "Day - 01.md",
     "README.md"
   ]
 }

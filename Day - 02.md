@@ -81,7 +81,7 @@ Python supports the following arithmetic operators:
 |`//`|Floor Division|`10 // 4`|`2`|
 |`%`|Modulus (remainder)|`10 % 4`|`2`|
 |`**`|Exponentiation|`2 ** 3`|`8`|
-
+The calculations will be performed by the system using the PEMDAS Rule 
 ---
 
 ## 6. Number Manipulation
